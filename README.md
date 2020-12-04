@@ -19,7 +19,7 @@ Check the version of statsmodel. When you broswe online, you can see different c
 # Reproduce the result
 - Jupyter: 
     - Train.ipynb, will generate a file predictions containing all data from 2018-01-01-01:00 to 2018-12-31-23:00
-    - submit.ipynb, will transform predictions.csv to test_submit.csv which is the file to submit.
+    - test_submit_id.csv: 
 - Kaggle:
     - Kaggle (ARIMA): https://www.kaggle.com/hkustcenz/kaggle-final
     - Will output a test_submit.csv
